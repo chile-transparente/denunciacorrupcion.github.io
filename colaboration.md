@@ -2,6 +2,7 @@
 layout: colaboradores
 title: Colaboradores
 permalink: /colaboradores/
+published: false
 ---
 
 <h2 class="titulo">{{page.title}}</h2>
