@@ -2,11 +2,12 @@
 layout: simple-page
 title: Haz tu denuncia
 permalink: /haz-tu-denuncia/
+published: true
 ---
 
 ### ¿Qué debo hacer para denunciar un hecho irregular o de corrupción?
 
-* Ingresar al formulario de denuncia en línea.
+* Ingresa al formulario de denuncia en línea.
 * Selecciona el tema que motiva tu denuncia.
 * Completa el formulario de denuncia.
 * Selecciona si deseas mantener tu identidad bajo reserva.
